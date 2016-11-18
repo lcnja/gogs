@@ -41,14 +41,14 @@ import:
   subpackages:
   - diffmatchpatch
 - package: github.com/strk/go-libravatar
-- package: golang.org/x/crypto
+- package: github.com/golang/crypto
   subpackages:
   - ssh
-- package: golang.org/x/net
+- package: github.com/golang/net
   subpackages:
   - html
   - html/charset
-- package: golang.org/x/text
+- package: github.com/golang/text
   subpackages:
   - transform
   - language
