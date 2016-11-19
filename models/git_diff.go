@@ -18,8 +18,8 @@ import (
 
 	"github.com/Unknwon/com"
 	"github.com/sergi/go-diff/diffmatchpatch"
-	"golang.org/x/net/html/charset"
-	"golang.org/x/text/transform"
+	"github.com/golang/net/html/charset"
+	"github.com/golang/text/transform"
 
 	"github.com/gogits/git-module"
 

@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"golang.org/x/net/html/charset"
-	"golang.org/x/text/transform"
+	"github.com/golang/net/html/charset"
+	"github.com/golang/text/transform"
 	"gopkg.in/editorconfig/editorconfig-core-go.v1"
 
 	"github.com/gogits/gogs/models"

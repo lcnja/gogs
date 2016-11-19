@@ -15,7 +15,7 @@ import (
 	"strings"
 
 	"github.com/Unknwon/com"
-	"golang.org/x/crypto/ssh"
+	"github.com/golang/crypto/ssh"
 
 	"github.com/gogits/gogs/models"
 	"github.com/gogits/gogs/modules/log"

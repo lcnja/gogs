@@ -20,7 +20,7 @@ import (
 
 	"github.com/Unknwon/com"
 	"github.com/go-xorm/xorm"
-	"golang.org/x/crypto/ssh"
+	"github.com/golang/crypto/ssh"
 
 	"github.com/gogits/gogs/modules/base"
 	"github.com/gogits/gogs/modules/log"

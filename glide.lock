@@ -95,25 +95,25 @@ imports:
   version: 39d6f2727e0698b1021ceb6a77c1801aa92e7d5d
 - name: github.com/Unknwon/paginater
   version: 7748a72e01415173a27d79866b984328e7b0c12b
-- name: golang.org/x/crypto
+- name: github.com/golang/crypto
   version: bc89c496413265e715159bdc8478ee9a92fdc265
   subpackages:
   - ssh
   - curve25519
   - ed25519
   - ed25519/internal/edwards25519
-- name: golang.org/x/net
+- name: github.com/golang/net
   version: 57bfaa875b96fb91b4766077f34470528d4b03e9
   subpackages:
   - html
   - html/charset
   - html/atom
-- name: golang.org/x/sys
+- name: github.com/golang/sys
   version: a646d33e2ee3172a661fc09bca23bb4889a41bc8
   subpackages:
   - windows/svc
   - windows
-- name: golang.org/x/text
+- name: github.com/golang/text
   version: 2910a502d2bf9e43193af9d68ca516529614eed3
   subpackages:
   - transform

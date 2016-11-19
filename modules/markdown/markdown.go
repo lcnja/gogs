@@ -16,7 +16,7 @@ import (
 	"github.com/Unknwon/com"
 	"github.com/microcosm-cc/bluemonday"
 	"github.com/russross/blackfriday"
-	"golang.org/x/net/html"
+	"github.com/golang/net/html"
 
 	"github.com/gogits/gogs/modules/base"
 	"github.com/gogits/gogs/modules/setting"
